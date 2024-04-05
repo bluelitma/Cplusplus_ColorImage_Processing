@@ -21,3 +21,11 @@ Language : C++
 #### 파일 불러오기를 통해 다음과 같은 영상 출력
 ![image](https://github.com/bluelitma/Cplusplus_ColorImage_Processing/assets/165994180/313b9180-ebb1-4862-8b67-b95d40d26f5a)
 
+
+실행창에 여러 메뉴를 통해 다양한 영상 효과 처리 가능
+
+# 주요 기능
+
+화소점 처리, 화소 영역 처리, 기하학 처리, 히스토그램 처리, 컬러 이미지 효과
+
+### 더 자세한 설명은 pptx 참조
